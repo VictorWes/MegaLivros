@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MegaLivros</name>
+    </assembly>
+    <members>
+        <member name="M:MegaLivros.Controllers.ProdutosController.GetProdutoCategorias(System.Int32)">
+            <summary>
+            Obtem uma lista de produtos pesquisando por categorias
+             </summary>
+             <returns>Uma lista de Produtos</returns>
+        </member>
+        <member name="T:MegaLivros.Migrations.MigracaoInicial">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.MigracaoInicial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.MigracaoInicial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.MigracaoInicial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:MegaLivros.Migrations.MigrationInicial">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.MigrationInicial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.MigrationInicial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.MigrationInicial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:MegaLivros.Migrations.PopulaProdutos">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.PopulaProdutos.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.PopulaProdutos.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.PopulaProdutos.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:MegaLivros.Migrations.PopulaCat">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.PopulaCat.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.PopulaCat.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.PopulaCat.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:MegaLivros.Migrations.CriarTabelaInicialIden">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.CriarTabelaInicialIden.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.CriarTabelaInicialIden.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.CriarTabelaInicialIden.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:MegaLivros.Migrations.UpdateEntityUser">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.UpdateEntityUser.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.UpdateEntityUser.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MegaLivros.Migrations.UpdateEntityUser.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

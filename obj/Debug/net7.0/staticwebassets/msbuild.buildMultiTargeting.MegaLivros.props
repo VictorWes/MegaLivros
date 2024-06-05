@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MegaLivros.props" />
+</Project>
